@@ -1691,14 +1691,11 @@ ai_translation:
       - 点击 **"Allow"** 按钮完成授权
       - 系统会自动跳转回配置页面
 
-   ### 步骤 4：复制并保存 Webhook URL
+    ### 步骤 4：复制并保存 Webhook URL
 
-   1. **查看生成的 URL**：
-      - 在 "Webhook URLs for Your Workspace" 区域
-      - 会看到刚刚生成的 Webhook URL
-       - 格式如：`https://hooks.slack.com/services/T00000000/B00000000/XXXXXXXXXXXXXXXXXXXXXXXX`（示例格式，请使用真实的 Webhook URL）
-
-   2. **复制 URL**：
+    1. **查看生成的 URL**：
+       - 在 "Webhook URLs for Your Workspace" 区域
+       - 会看到刚刚生成的 Webhook URL
       - 点击 URL 右侧的 **"Copy"** 按钮
       - 或手动选中 URL 并复制
 
